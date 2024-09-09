@@ -1,0 +1,18 @@
+.metadeBlur::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 75%!important; /* Covers half of the image */
+    left: 0;
+    bottom: 0;
+    background-color: rgba(255, 255, 255, 0)!important; /* Transparent background */
+    backdrop-filter: blur(10px)!important; /* Blur effect */
+    pointer-events: none!important; /* Ensures the element doesn't interfere with mouse events */
+}
+.legendaCarrosel {
+    position: absolute;
+    z-index: 2;
+    top: auto;
+    bottom: 50%;
+    left: 5%;
+}
