@@ -9,7 +9,7 @@
     <div class="container-fluid">
         <h3 class="text-center">One piece</h3>
     </div>
-
+    <a href="javascript:history.back()">Voltar</a>
     <div class="container">
         <div class="row">
             <div class="col-3">

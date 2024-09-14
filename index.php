@@ -40,7 +40,7 @@
 </br>
 <div class="container-fluid">
     <div class="row">
-        <div class="col-lg-2">
+        <div class="col-lg-2" onclick="window.location.href='animes.php'">
             <div class="card" style="width: 18rem;">
                 <img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/257cdb6a1fdd566600a01eb0f9f73b22.jpe" class="card-img-top" alt="...">
                 <div class="card-body">

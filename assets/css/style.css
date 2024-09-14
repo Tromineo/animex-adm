@@ -16,3 +16,6 @@
     bottom: 50%;
     left: 5%;
 }
+body{
+    background: radial-gradient(circle at 10% 20%, rgb(0, 0, 0) 0%, rgb(64, 64, 64) 90.2%);
+}
