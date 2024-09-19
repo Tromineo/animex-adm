@@ -2,23 +2,23 @@
 </br>
 <div class="container-fluid">
     <div class="row">
-        <div class="col-lg-12 p-0">
+        <div class="col-lg-10 offset-lg-1 p-0" >
         <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="metadeBlur carousel-item active">
                   <div class="col-lg-2 legendaCarrosel">
-                    <h3>jujutsu kaisen</h3>
-                    <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo veritatis molestiae libero, laudantium optio voluptatibus nam voluptas rem architecto ab.</span>
+                    <h3 class="fontSerrat">jujutsu kaisen</h3>
+                    <span class="fontSerrat">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo veritatis molestiae libero, laudantium optio voluptatibus nam voluptas rem architecto ab.</span>
                   </div>
                   <img src="assets/img/jujutsu.jpeg" class=" d-block w-100 h-50" alt="...">
                  
                 </div>
                 <div class="metadeBlur carousel-item">
                   <div class="col-lg-2 legendaCarrosel">
-                    <h3>One Piece</h3>
-                    <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo veritatis molestiae libero, laudantium optio voluptatibus nam voluptas rem architecto ab.</span>
+                    <h3 class="fontSerrat">One Piece</h3>
+                    <span class="fontSerrat">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo veritatis molestiae libero, laudantium optio voluptatibus nam voluptas rem architecto ab.</span>
                   </div>
-                  <img src="https://t4.ftcdn.net/jpg/05/62/02/41/360_F_562024161_tGM4lFlnO0OczLYHFFuNNdMUTG9ekHxb.jpg" class="d-block w-100" alt="...">
+                  <img src="assets/img/onepiece.jpg" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
                   <img src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/03/jujutsu-kaisen-anime-awards.jpeg" class="d-block w-100" alt="...">
