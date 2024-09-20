@@ -22,3 +22,19 @@ body{
 .fontSerrat {
   font-family: "Montserrat", system-ui;
 }
+.header-default{
+    background: radial-gradient(
+        circle at 10% 20%,
+        #054970 0%, 
+        #267695 90.2%);
+
+}
+.footer-default{
+    background: radial-gradient(
+        circle at 10% 20%,
+        #054970 0%, 
+         #267695 90.2%);
+    position: absolute;
+    bottom: 0;
+
+}
